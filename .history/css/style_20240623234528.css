@@ -65,7 +65,7 @@ ul {
 .header {
    height: 100vh;
    display: flow-root;
-   background-image: url("./portfolio/hero\ img.jpg");
+   background-image: url("/portfolio/hero\ img.jpg");
    background-size: cover;
    position: relative;
 
