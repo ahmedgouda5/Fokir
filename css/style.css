@@ -91,9 +91,10 @@ ul {
 }
 
 .header .navbar {
-   float: left;
-   margin-left: 705px;
-   transform: translate(30px, 20px);
+  transform: translate(-39px, 20px);
+    display: flex;
+    justify-content: end;
+    align-items: center;
 }
 
 .navbar ul li {
